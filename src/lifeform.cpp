@@ -18,6 +18,8 @@ bool Lifeform::update(std::vector<glm::vec3> &targets)
 	
 	inputs.push_back(closest_targ.x);
 	inputs.push_back(closest_targ.y);
+	inputs.push_back(direction.x);
+	inputs.push_back(direction.y);
 	
 	std::vector<double> output= neural_net.update(inputs);
 	
