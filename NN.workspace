@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="NN" Database="">
+  <Environment>
+    <![CDATA[]]>
+  </Environment>
+  <Project Name="NN" Path="NN.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Project Name="NN" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="no">
+      <Project Name="NN" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="test_neural_net" Selected="no">
+      <Project Name="NN" ConfigName="test_neural_net"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="test_gen_alg" Selected="no">
+      <Project Name="NN" ConfigName="test_gen_alg"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

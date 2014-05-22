@@ -1,0 +1,1 @@
+./Debug/main.o ./Debug/src_parameters.o ./Debug/src_gen_alg.o ./Debug/src_lifeform.o ./Debug/src_neural_net.o ./Debug/src_system.o
